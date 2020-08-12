@@ -1,5 +1,5 @@
 # firstRepo
-123
+public static void 3 first repo
 ok
 public static void 2()
 davka
