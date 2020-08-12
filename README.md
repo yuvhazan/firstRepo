@@ -1,7 +1,6 @@
 # firstRepo
 123
 ok
-ok
-ok
+public static void 2()
 davka
 mazedavke
